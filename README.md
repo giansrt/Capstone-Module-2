@@ -53,5 +53,5 @@ After conducting a thorough analysis of Airbnb data in Bangkok, including recomm
 
 - `data/`: Contains the dataset used for the analysis.
 - `notebooks/`: Jupyter notebooks with the step-by-step analysis.
-- `images/`: Visualizations generated from the analysis.
+- `Tableau/`:[Dashborad]([URL halaman web](https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
 - `README.md`: Project overview and documentation.
