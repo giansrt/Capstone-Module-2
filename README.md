@@ -56,5 +56,5 @@ After conducting a thorough analysis of Airbnb data in Bangkok, including recomm
 - `Tableau/`:[Dashboard Airbnb Bangkok](https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 - `README.md`: Project overview and documentation.
 
-  ## **Project Structure**
+## **Dashboard Airbnb Bangkok **
    `Link/` : https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
