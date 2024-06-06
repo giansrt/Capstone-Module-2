@@ -55,3 +55,6 @@ After conducting a thorough analysis of Airbnb data in Bangkok, including recomm
 - `notebooks/`: Jupyter notebooks with the step-by-step analysis.
 - `Tableau/`:[Dashboard Airbnb Bangkok](https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 - `README.md`: Project overview and documentation.
+
+  ## **Project Structure**
+   `Link/` : https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
