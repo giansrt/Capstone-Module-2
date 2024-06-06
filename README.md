@@ -59,3 +59,6 @@ After conducting a thorough analysis of Airbnb data in Bangkok, including recomm
 
 ## **Dashboard Airbnb Bangkok**
    `Link/` : https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+## **Story Airbnb Bangkok**
+   `Link/` : https://public.tableau.com/views/StoryAirbnbBangkok/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
