@@ -41,9 +41,9 @@ After conducting a thorough analysis of Airbnb data in Bangkok, including recomm
    - At Level 3, focus on providing Private rooms as the first choice and Entire home/apt as the second choice.
 
 3. **Minimum Night Stays Strategy:**
-   - **Level 1:** Prioritize Short-stays (≤7 nights) with the highest average reviews (19.95). Alternative: Medium-stays (8-14 nights) with good reviews (17.88).
-   - **Level 2:** Prioritize Short-stays (≤7 nights) with the highest average reviews (12.10). Alternative: Long-stays (15-30 nights) with fair reviews (11.07).
-   - **Level 3:** Prioritize Short-stays (≤7 nights) with the highest average reviews (8.70). Alternative: Long-stays (15-30 nights) with similar reviews (8.48).
+   - **Level 1:** Prioritize Short-stays (≤7 nights). Alternative: Medium-stays (8-14 nights).
+   - **Level 2:** Prioritize Short-stays (≤7 nights). Alternative: Long-stays (15-30 nights).
+   - **Level 3:** Prioritize Short-stays (≤7 nights). Alternative: Long-stays (15-30 nights).
 
 4. **Review Quality Improvement:**
    - Ensure that the listing is always in the best condition and provides a satisfying experience for guests to increase the number and quality of reviews.
@@ -53,5 +53,5 @@ After conducting a thorough analysis of Airbnb data in Bangkok, including recomm
 
 - `data/`: Contains the dataset used for the analysis.
 - `notebooks/`: Jupyter notebooks with the step-by-step analysis.
-- `Tableau/`:[Dashborad]([URL halaman web](https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
+- `Tableau/`:[Dashboard](https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 - `README.md`: Project overview and documentation.
