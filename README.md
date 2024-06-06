@@ -41,7 +41,7 @@ After conducting a thorough analysis of Airbnb data in Bangkok, including recomm
    - At Level 3, focus on providing Private rooms as the first choice and Entire home/apt as the second choice.
 
 3. **Minimum Night Stays Strategy:**
-   - **Level 1:** Prioritize Short-stays (≤7 nights). Alternative: Medium-stays (8-14 nights).
+   - **Level 1:** Prioritize Short-stays (≤7 nights). Alternative: Long-stays (15-30 nights).
    - **Level 2:** Prioritize Short-stays (≤7 nights). Alternative: Long-stays (15-30 nights).
    - **Level 3:** Prioritize Short-stays (≤7 nights). Alternative: Long-stays (15-30 nights).
 
@@ -53,5 +53,5 @@ After conducting a thorough analysis of Airbnb data in Bangkok, including recomm
 
 - `data/`: Contains the dataset used for the analysis.
 - `notebooks/`: Jupyter notebooks with the step-by-step analysis.
-- `Tableau/`:[Dashboard](https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
+- `Tableau/`:[Dashboard Airbnb Bangkok](https://public.tableau.com/views/DashboardAirbnbBangkok/DashboardAirbnbBangkok?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 - `README.md`: Project overview and documentation.
